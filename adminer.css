@@ -41,6 +41,10 @@ a, a:visited, a:link, #tables a {
     margin: 0;
 }
 
+#table a {
+    padding: 0;
+}
+
 a:hover, a:visited:hover, a:link:hover, #tables a:hover {
     text-decoration: underline;
     filter: brightness(120%);
